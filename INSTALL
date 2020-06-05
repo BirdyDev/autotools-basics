@@ -1,0 +1,8 @@
+1. After pulling all of the files from GitHub, just go to the directory where they are and then in terminal use command: ./configure
+
+2. Don't forget to make all of the dependencies in program by typing 'make' in your terminal!
+
+
+3. After this just use command: ./wso to start the program.
+
+4. (Optional) If you want to make distribution of the program tar.gz type in terminal 'make dist'
